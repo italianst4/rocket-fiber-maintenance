@@ -52,8 +52,8 @@ i{font-weight:400 !important;}
 	html { font-size: 18px; }
 }
 
-.maintenance { text-align:center; margin-top:50px; }
-.maintenance img { width:max-width:300px; }
+.maintenance { text-align:center; max-width:350px; margin:50px auto; }
+.maintenance img { max-width:120px; margin-top:30px; }
 
 /*-------------------------
 	Headlines
